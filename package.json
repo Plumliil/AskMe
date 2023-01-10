@@ -1,0 +1,23 @@
+{
+  "name": "askme",
+  "version": "0.0.1",
+  "description": "a command line tool",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Plumliil/AskMe.git"
+  },
+  "author": "Plumliil",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Plumliil/AskMe/issues"
+  },
+  "homepage": "https://github.com/Plumliil/AskMe#readme",
+  "type": "module",
+  "dependencies": {
+    "inquirer": "^9.1.4"
+  }
+}
